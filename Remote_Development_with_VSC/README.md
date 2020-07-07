@@ -1,4 +1,4 @@
-# Instructions on how to use VSC to develop remotely (e.g. on azure machine learning compute instace)
+# Instruction on how to use VSC to develop remotely (e.g. on azure machine learning compute instace)
 
 1. install Remote - SSH frrom the VC Extentions Marketplace <br>
 ![picture](./images/remote-ssh-plugin-install.PNG)<br>
