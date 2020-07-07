@@ -5,11 +5,11 @@
 2. click lower left hand corner of VC to connect <br>
 ![picture](./images/click-to-connect.PNG)<br>
 3. select Remote-SSH: Connect to Host <br>
-![picture](./images/connect-to-host.PNG)<br>
+![picture](./images/connect-to-host.png)<br>
 4. select Configure SSH Hosts... <br>
-![picture](./images/configure-ssh-host.PNG)<br>
+![picture](./images/configure-ssh-host.png)<br>
 5. select local ssh config file (e.g. c\user\username\.ssh\config)  <br>
-![picture](./images/config_ssh_config_file.PNG)<br>
+![picture](./images/config_ssh_config_file.png)<br>
 6. update the config file <br>
 ![picture](./images/update-ssh-config-file.PNG)<br>
 7. generate ssh public/private key pair <br>
